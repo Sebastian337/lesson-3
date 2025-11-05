@@ -33,11 +33,11 @@ VK_TOKEN=ваш_токен_от_VK
 
 
 ```bash
-$ python vk_example.py https://example.com
+$ python main.py https://example.com
 
 Сокращенная ссылка: https://vk.cc/c1a2b3
 
 или
 
-$ python vk_example.py https://vk.cc/c1a2b3
+$ python main.py https://vk.cc/c1a2b3
 Всего переходов по ссылке: 185
