@@ -1,1 +1,55 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+env*/
+venv*/
+.venv*/
+
+# Дистрибутивы / упаковка
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# Тесты и coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+pytestdebug.log
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Типизация / анализаторы
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Переменные окружения и секреты
 .env
+.env.*
+
